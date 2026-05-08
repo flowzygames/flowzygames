@@ -35,11 +35,11 @@ Some older repos are kept around as artifacts. They are not secret active projec
 - Powerups, scoring ring control, drifting, wrecks, podium rounds, and a Gulag redeploy system.
 - Focused on smooth browser performance and quick arcade chaos.
 
-<p align="center">
-  <a href="https://github.com/flowzygames/crash-club">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowzygames&repo=crash-club&theme=tokyonight&hide_border=true" alt="Crash Club repository card" />
-  </a>
-</p>
+| Link | Details |
+| --- | --- |
+| [Play Crash Club](https://crash-club.vercel.app/) | Live browser build |
+| [Source Code](https://github.com/flowzygames/crash-club) | Node.js, WebSockets, Three.js |
+| [README](https://github.com/flowzygames/crash-club#readme) | Screenshots, controls, deploy notes, and roadmap |
 
 ## Other Experiments
 
@@ -67,12 +67,14 @@ Some older repos are kept around as artifacts. They are not secret active projec
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel" />
 </p>
 
-## GitHub Snapshot
+## Repo Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flowzygames&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="flowzygames GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowzygames&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="flowzygames top languages" />
-</p>
+| Repo | Type | Status |
+| --- | --- | --- |
+| [crash-club](https://github.com/flowzygames/crash-club) | Multiplayer browser game | Active main project |
+| [PianoGod](https://github.com/flowzygames/PianoGod) | Browser music experiment | Abandoned, kept for comedy |
+| [Kanye-webGL-player](https://github.com/flowzygames/Kanye-webGL-player) | Python desktop audio player | Finished, no updates planned |
+| [flowzygames](https://github.com/flowzygames/flowzygames) | Profile README | This page |
 
 ---
 
