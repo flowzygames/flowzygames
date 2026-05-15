@@ -1,60 +1,44 @@
 # flowzygames
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flowzygames/crash-club/main/assets/crash-club-banner.svg" alt="Crash Club banner" width="100%" />
+  <a href="https://flowzygames-portfolio.vercel.app">
+    <img src="https://raw.githubusercontent.com/flowzygames/crash-club/main/assets/crash-club-banner.svg" alt="Crash Club banner" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Building browser games, interactive experiments, and the occasional questionable artifact that escaped containment.</strong>
+  <strong>Browser games, WebGL experiments, realtime systems, and playable ideas that move fast.</strong>
 </p>
 
 <p align="center">
-  <a href="https://crash-club.vercel.app/"><img alt="Play Crash Club" src="https://img.shields.io/badge/Play-Crash%20Club-5AF0C1?style=for-the-badge" /></a>
+  <a href="https://flowzygames-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-flowzygames-5AF0C1?style=for-the-badge&logo=vercel&logoColor=111827" /></a>
+  <a href="https://crash-club.vercel.app/"><img alt="Play Crash Club" src="https://img.shields.io/badge/Play-Crash%20Club-F59E0B?style=for-the-badge" /></a>
   <a href="https://github.com/flowzygames/crash-club"><img alt="Crash Club source" src="https://img.shields.io/badge/Source-GitHub-111827?style=for-the-badge&logo=github" /></a>
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-WebGL-111111?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-realtime-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-## What I Make
+## Main Links
 
-I like building projects that feel alive right away: browser games, multiplayer experiments, WebGL scenes, and small apps that are more fun than they strictly need to be.
-
-Right now my main project is **Crash Club**, a 3D browser-based car combat arena where players drift, smash rivals, grab powerups, fight for the scoring ring, and get a second chance in an FPS-style Gulag after getting wrecked.
-
-Some older repos are kept around as artifacts. They are not secret active projects, they are not coming back, and in at least one case the repo is mostly here because deleting it would feel too merciful.
-
-## Featured Project
-
-### Crash Club
-
-**Multiplayer 3D browser driving arena built with Node.js, WebSockets, and Three.js.**
-
-- Play instantly in the browser: [crash-club.vercel.app](https://crash-club.vercel.app/)
-- Bot-filled rooms so solo testing still feels active.
-- Shareable room links for multiplayer sessions.
-- Powerups, scoring ring control, drifting, wrecks, podium rounds, and a Gulag redeploy system.
-- Focused on smooth browser performance and quick arcade chaos.
-
-| Link | Details |
+| Link | What It Shows |
 | --- | --- |
-| [Play Crash Club](https://crash-club.vercel.app/) | Live browser build |
-| [Source Code](https://github.com/flowzygames/crash-club) | Node.js, WebSockets, Three.js |
-| [README](https://github.com/flowzygames/crash-club#readme) | Screenshots, controls, deploy notes, and roadmap |
+| [Portfolio](https://flowzygames-portfolio.vercel.app) | Full flowzygames project showcase, gameplay captures, about section, and development notes. |
+| [Crash Club](https://crash-club.vercel.app/) | Live browser build of the main project. |
+| [Crash Club Source](https://github.com/flowzygames/crash-club) | Multiplayer 3D driving arena built with Node.js, WebSockets, and Three.js. |
 
-## Other Experiments
+## About
 
-| Project | What It Is | Status |
-| --- | --- | --- |
-| [PianoGod](https://github.com/flowzygames/PianoGod) | Random browser music experiment. Not in development, not being fixed, preserved for historical comedy. | Abandoned |
-| [Chord Artifacts Player](https://github.com/flowzygames/Kanye-webGL-player) | Finished Python desktop audio player with keyboard-triggered musical sections and visual playback. | Complete, no updates planned |
+I build browser games and interactive experiments under **flowzygames**. The stuff I like most is fast to open, visual immediately, and built around systems that make the game feel alive before it feels finished.
+
+My main project is **Crash Club**, a 3D browser car-combat arena with drifting, powerups, scoring-ring pressure, bot-filled rooms, multiplayer links, podium rounds, and a second-chance Gulag redeploy system.
+
+The portfolio is the best place to see everything that is worth showing publicly: real gameplay, project status, what is still in development, and the work I actually want people to judge.
 
 ## Current Focus
 
 - Realtime multiplayer game loops.
 - WebGL and browser performance.
-- Arcade controls that feel good fast.
-- Turning Crash Club into something people can actually play, share, and understand quickly.
-- Leaving old experiments clearly labeled so nobody mistakes them for the roadmap.
+- Arcade controls that feel good quickly.
+- Public-facing game pages that show real gameplay instead of placeholder visuals.
+- Making Crash Club easier to play, share, and understand.
 
 ## Stack
 
@@ -67,18 +51,9 @@ Some older repos are kept around as artifacts. They are not secret active projec
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel" />
 </p>
 
-## Repo Snapshot
-
-| Repo | Type | Status |
-| --- | --- | --- |
-| [crash-club](https://github.com/flowzygames/crash-club) | Multiplayer browser game | Active main project |
-| [PianoGod](https://github.com/flowzygames/PianoGod) | Browser music experiment | Abandoned, kept for comedy |
-| [Kanye-webGL-player](https://github.com/flowzygames/Kanye-webGL-player) | Python desktop audio player | Finished, no updates planned |
-| [flowzygames](https://github.com/flowzygames/flowzygames) | Profile README | This page |
-
 ---
 
 <p align="center">
-  <strong>Play Crash Club:</strong>
-  <a href="https://crash-club.vercel.app/">https://crash-club.vercel.app/</a>
+  <strong>Full portfolio:</strong>
+  <a href="https://flowzygames-portfolio.vercel.app">https://flowzygames-portfolio.vercel.app</a>
 </p>
