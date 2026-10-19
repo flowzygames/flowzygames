@@ -11,8 +11,8 @@ the systems behind multiplayer games, test reliability, and failure handling.
 | Project | What's inside |
 | --- | --- |
 | [Crash Club](https://github.com/flowzygames/crash-club) | A multiplayer 3D driving arena built with Node.js, WebSockets, and Three.js. |
-| [PianoGod](https://github.com/flowzygames/PianoGod) | A music project from my collection of interactive experiments. |
-| [runtime-truth](https://github.com/flowzygames/runtime-truth) | Another corner of the workshop—see the repository for its current scope. |
+| [PianoGod](https://github.com/flowzygames/PianoGod) | An archived browser music experiment. Kept around as part of the workshop history. |
+| [RuntimeTruth](https://github.com/flowzygames/runtime-truth) | A Node.js CLI that checks for incompatible runtime declarations across local tooling, CI, Docker, and package.json. |
 
 🎮 [Play Crash Club](https://crash-club.vercel.app/) ·
 [Visit my portfolio](https://flowzygames-portfolio.vercel.app)
